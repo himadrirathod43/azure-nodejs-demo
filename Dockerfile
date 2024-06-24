@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:22.3-alpine
 LABEL maintainer="Julie Ng <me@julie.io>"
 
 # Use `dumb-init` to follow security best practices
